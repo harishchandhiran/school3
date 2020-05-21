@@ -1,0 +1,48 @@
+h1 {
+    color: brown;
+    border: solid;
+}
+
+h2 {
+    color: navy;
+    text-align: center;
+    text-decoration: underline double navy;
+}
+
+a {
+    border: solid;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+h5,img {
+    border: solid;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.header {
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    color: navy;
+    font-size: x-large;
+    /*text-align: center;
+    border: solid;
+    text-decoration: underline double navy;*/
+    font-weight: bold;
+    font-style: oblique;
+    /*text-transform: unset;*/
+}
+
+body{
+    background-color: chartreuse;
+}

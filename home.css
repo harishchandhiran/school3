@@ -1,0 +1,57 @@
+h1 {
+    text-decoration: double underline brown;
+    font: 35px Arial, Times New Roman;
+    text-align: center;
+    color: brown;
+}
+
+h2 {
+    color: saddlebrown;
+    text-align: center;
+    text-decoration: double underline saddlebrown;
+}
+
+h3 {
+    text-decoration: underline;
+    font-size: x-large;
+    font-style: inherit;
+    font-weight: bold;
+}
+
+h5 {
+    font: 20px Arial, Monolithic;
+    color: black;
+    text-align: center;
+    text-decoration: double underline;
+}
+
+p {
+    text-decoration: double underline;
+    font-size: x-large;
+}
+
+a {
+    border: solid;
+    color: navy;
+    font: 30px Arial;
+}
+
+.school {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.header {
+    border: solid;
+}
+
+img {
+    border: solid;
+}
